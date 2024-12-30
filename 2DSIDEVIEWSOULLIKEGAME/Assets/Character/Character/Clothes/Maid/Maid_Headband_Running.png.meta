@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Maid_Headband_Running_0: -6464444355769480529
+      Maid_Headband_Running_1: -2490186391825956036
+      Maid_Headband_Running_2: 2924614734007355711
+      Maid_Headband_Running_3: 9074056260344805073
+      Maid_Headband_Running_4: 490355779949571246
+      Maid_Headband_Running_5: 7874113191928566158
+      Maid_Headband_Running_6: -818805337168836588
+      Maid_Headband_Running_7: -2056665126826204261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

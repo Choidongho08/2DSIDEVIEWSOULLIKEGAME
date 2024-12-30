@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Maid_Stockings_0: 6255745110883512905
+      Maid_Stockings_1: 6698975991484806611
+      Maid_Stockings_10: -4660334104727381276
+      Maid_Stockings_11: -5965595519451750174
+      Maid_Stockings_12: -5127191220657548802
+      Maid_Stockings_13: -8846380813575279142
+      Maid_Stockings_14: -2652544714782310429
+      Maid_Stockings_15: 8465756102100198494
+      Maid_Stockings_2: -7478039799906383971
+      Maid_Stockings_3: -3388423885013625928
+      Maid_Stockings_4: 2090931004248890283
+      Maid_Stockings_5: 4581635234768748133
+      Maid_Stockings_6: -2196179109593568707
+      Maid_Stockings_7: 3557792998520301327
+      Maid_Stockings_8: 5304333935617612456
+      Maid_Stockings_9: 6640219360565237413
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

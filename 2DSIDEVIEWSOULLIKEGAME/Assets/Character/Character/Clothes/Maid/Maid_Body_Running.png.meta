@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Maid_Body_Running_0: 3289730472689845452
+      Maid_Body_Running_1: 8066749805861396794
+      Maid_Body_Running_2: 6152132137518624365
+      Maid_Body_Running_3: 8883470963812522032
+      Maid_Body_Running_4: 5559869523891572167
+      Maid_Body_Running_5: 2299683118556292843
+      Maid_Body_Running_6: 2723006423691303870
+      Maid_Body_Running_7: -5464903235805634829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

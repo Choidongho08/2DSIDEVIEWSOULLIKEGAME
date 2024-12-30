@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Maid_Sockings_Running_0: 4987867673621936871
+      Maid_Sockings_Running_1: -3126446346603819776
+      Maid_Sockings_Running_2: -6695390228287864565
+      Maid_Sockings_Running_3: 7655997913618285718
+      Maid_Sockings_Running_4: -6271628959715610217
+      Maid_Sockings_Running_5: 1638839843315444091
+      Maid_Sockings_Running_6: 1757026356364200086
+      Maid_Sockings_Running_7: 5555475093098844811
+      Maid_Sockings_Running_8: 293462208062473739
+      Maid_Sockings_Running_9: -6136611739994448222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

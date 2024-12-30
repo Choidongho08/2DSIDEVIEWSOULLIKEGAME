@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chara_Idle_FrontHair_V1_0: 1245947641766035739
+      Chara_Idle_FrontHair_V1_1: -7408937350921547008
+      Chara_Idle_FrontHair_V1_2: 7243629917146416989
+      Chara_Idle_FrontHair_V1_3: -8886419751589735863
+      Chara_Idle_FrontHair_V1_4: 2910998475815690132
+      Chara_Idle_FrontHair_V1_5: 956391247952427369
+      Chara_Idle_FrontHair_V1_6: -3282614068650318007
+      Chara_Idle_FrontHair_V1_7: -7402587711466164575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
